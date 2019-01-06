@@ -5,8 +5,8 @@
 
 ## About the application
 
-This is a simple project with an input and a mirroring label.
-So it label will text mirror what we type into the input.
+This is a simple project with an input and a mirroring label.  
+So the label will text mirror what we type into the input.
 When all of the text is erased, nothing will be printed to the screen.
 
 Initial screen:
