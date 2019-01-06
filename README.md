@@ -9,6 +9,8 @@ This is a simple project with an input and a mirroring label.
 So the label will text mirror what we type into the input.
 When all of the text is erased, nothing will be printed to the screen.
 
+The purpose of this project is to learn manipulation of the state and solidify the informations about Controlled Components.
+
 Initial screen:
 
 ![ScrenShot](src/img/mirroring-initial.png)
